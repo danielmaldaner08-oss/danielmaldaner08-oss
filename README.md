@@ -2,23 +2,6 @@
 
 Me chamo Daniel Henrique Maldaner, tenho 18 anos e moro em chapecó. Estou cursando Ciência da Computação na UFFS.
 
- 
-    <a href="https://github.com/danielmaldaner08-oss?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/danielmaldaner08-oss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/danielmaldaner08-oss?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/danielmaldaner08-oss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
