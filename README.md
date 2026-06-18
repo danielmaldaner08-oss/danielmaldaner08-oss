@@ -126,7 +126,7 @@ Me chamo Daniel Henrique Maldaner, tenho 18 anos e moro em chapecó. Estou cursa
 
 
 <div align="center">
-  <img src="./Logo-Compacta.svg" width="180" alt="Logo do perfil">
+  <img src="./logo.png" width="180" alt="Logo do perfil">
 </div>
 
 <img 
