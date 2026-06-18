@@ -126,14 +126,8 @@ Me chamo Daniel Henrique Maldaner, tenho 18 anos e moro em chapecó. Estou cursa
 
 
 <div align="center">
-  <img src="./logo.png" width="180" alt="Logo do perfil">
+  <img src="./logo.png" width="300" alt="Logo do perfil">
 </div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
